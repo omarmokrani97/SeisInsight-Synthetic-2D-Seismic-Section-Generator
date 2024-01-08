@@ -39,6 +39,8 @@ Also provides a table containing geophone positions, distances,and the time of a
 
 ## How To Use
 
+![Flow-chart](https://github.com/omarmokrani97/Synthetic-Seismic-Reflection-Modelling-Software/blob/main/Diagram%20chart.png?raw=true)
+
 #### Installation
 This software is not yet ready for publication. There are some modifications that must be completed . STAY TUNED ! 
 
@@ -67,11 +69,11 @@ Here's an example of how the software work:
 
 #### All data is calculated and collected in a table
 
-![Data table](project-image-url)
+![Data table](https://github.com/omarmokrani97/Synthetic-Seismic-Reflection-Modelling-Software/blob/main/table.png?raw=true)
 
 #### All data is plotted generating a seismic section
 
-![Seismic Section](project-image-url)
+![Seismic Section](https://github.com/omarmokrani97/Synthetic-Seismic-Reflection-Modelling-Software/blob/main/siesmic%20Section.png?raw=true)
 
 
 [Back To The Top](#table-of-contents)
