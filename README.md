@@ -44,26 +44,26 @@ This software is not yet ready for publication. There are some modifications tha
 
 #### Usage : 
 
-Input: Provide the required parameters through the user interface.
-Visualization: View the generated graphs and tables.
-Analysis: Analyze the results to understand the behavior of synthetic seismic waves in the specified terrain.
+- Input: Provide the required parameters through the user interface.
+- Visualization: View the generated graphs and tables.
+- Analysis: Analyze the results to understand the behavior of synthetic seismic waves in the specified terrain.
 
 #### Exemple : 
 Here's an example of how the software work:
 #### Input parameters: 
-Number of geophones: 24
-Shot offset: 10 m
-Geophone spacing: 10 m
+- Number of geophones: 24
+- Shot offset: 10 m
+- Geophone spacing: 10 m
 #### Model 
-Layer 1:
-Thickness: 100 m
-Velocity: 4000 m/s
-Layer 2:
-Thickness: 2000 m
-Velocity: 6000 m/s
-Layer 3:
-Thickness: infinite 
-Velocity: 8000 m/s
+##### Layer 1:
+- Thickness: 100 m
+- Velocity: 4000 m/s
+##### Layer 2:
+- Thickness: 2000 m
+- Velocity: 6000 m/s
+##### Layer 3:
+- Thickness: infinite 
+- Velocity: 8000 m/s
 
 #### All data is calculated and collected in a table
 
@@ -100,7 +100,7 @@ check the repositories files .
 
 ## Author Info
 
-- Twitter - [@a-e-mokrani](https://www.linkedin.com/in/a-e-mokrani/)
+- LinkedIn - [@a-e-mokrani](https://www.linkedin.com/in/a-e-mokrani/)
 
 
 [Back To The Top](#table-of-contents)
