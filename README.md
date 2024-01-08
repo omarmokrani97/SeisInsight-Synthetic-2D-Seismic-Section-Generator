@@ -1,9 +1,9 @@
-# Synthetic-Seismic-Reflection-Modelling-Software
-# Read Me Template
+# Synthetic Seismic Reflection Modelling Software
+
 
 ![Project Image](project-image-url)
 
-> This is a ReadMe template to help save you time and effort.
+> This is a short ReadMe about this project.
 
 ---
 
@@ -11,7 +11,7 @@
 
 - [Description](#description)
 - [How To Use](#how-to-use)
-- [References](#references)
+- [Contributing](#contributing)
 - [License](#license)
 - [Author Info](#author-info)
 
