@@ -1,9 +1,7 @@
 # Synthetic Seismic Reflection Modelling Software
 
 
-![Project Image](project-image-url)
-
-> This is a short ReadMe about this project.
+> Please note that this is a primary page and may be subject to further development and improvements.
 
 ---
 
@@ -19,7 +17,9 @@
 
 ## Description
 
-This software is designed to simulate synthetic seismic reflection and refraction phenomena based on user-provided seismic acquisition parameters and terrain model parameters.
+This software is a base version designed to simulate synthetic seismic reflection and refraction phenomena based on user-provided seismic acquisition and terrain model parameters. Please note that this is not a finished product and may be subject to further development and improvements.
+
+This page serves to share the progress of the journey towards making this project a reality and to collect suggestions from everyone interested in contributing to its development.
 
 #### Features
 
@@ -94,7 +94,7 @@ MIT License
 
 Copyright (c) [2024] [MOKRANI AMOR ELMOKHTAR]
 
-check the repositories files . 
+> Check the repositories files. 
 
 [Back To The Top](#table-of-contents)
 
