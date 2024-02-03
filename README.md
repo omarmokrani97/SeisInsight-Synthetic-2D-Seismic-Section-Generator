@@ -1,9 +1,6 @@
-# SeisInsight - Synthetic 2D Seismic Section Generator
-
-
-> Please note that this is a primary page and may be subject to further development and improvements.
-
+![Cover](https://i.ibb.co/rm7V2gj/Cover.png)
 ---
+## SeisInsight - Synthetic 2D Seismic Section Generator
 
 ### Table of Contents 
 
@@ -37,8 +34,6 @@ Also provides a table containing geophone positions, distances,and the time of a
 
 ## How To Use
 
-![Flow-chart](https://github.com/omarmokrani97/Synthetic-Seismic-Reflection-Modelling-Software/blob/main/Diagram%20chart.png?raw=true)
-
 #### Installation
 - Download: Obtain the software file from the repositories files [SeisInsight.exe].
 - Run: Once downloaded, simply run the file to install the software on your system. 
@@ -64,19 +59,19 @@ Also provides a table containing geophone positions, distances,and the time of a
 
 #### Main Window : 
 Here where the USER can Define and Edit the Input Parameters:
-![MAIN WINDOW](https://github.com/omarmokrani97/Synthetic-Seismic-Reflection-Modelling-Software/blob/main/table.png?raw=true)
+![MAIN WINDOW](https://i.ibb.co/L6S5Sch/Main-window.png)
 
 #### Cross Section of the Subsurface Model Window 
 
-![CROSS SECTION](https://github.com/omarmokrani97/Synthetic-Seismic-Reflection-Modelling-Software/blob/main/table.png?raw=true)
+![CROSS SECTION](https://i.ibb.co/kyjpH4w/Cross-Section.png)
 
 #### All data is calculated and collected in a table
 
-![Data table](https://github.com/omarmokrani97/Synthetic-Seismic-Reflection-Modelling-Software/blob/main/table.png?raw=true)
+![Data table](https://i.ibb.co/zZwFBmC/Table-Window.png)
 
 ####  Synthetic Seismic Section Window 
 
-![Seismic Section](https://github.com/omarmokrani97/Synthetic-Seismic-Reflection-Modelling-Software/blob/main/siesmic%20Section.png?raw=true)
+![Seismic Section](https://i.ibb.co/5xcQfhW/Section-Window.png)
 
 
 [Back To The Top](#table-of-contents)
