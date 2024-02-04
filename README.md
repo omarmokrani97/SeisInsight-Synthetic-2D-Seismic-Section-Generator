@@ -14,7 +14,7 @@
 
 ## Description
 
-SeisInsight  is a software tool designed to generate synthetic 2D seismic sections based on user-defined acquisition geometry and subsurface layer properties. It is intended for educational purposes and conceptual demonstrations in the field of seismic exploration and geophysics. By providing a simplified representation of seismic data, SeisInsight  allows users to visualize and analyze theoretical scenarios without the complexities of real-world data.
+SeisInsight  is a Python-based software tool designed to generate synthetic 2D seismic sections based on user-defined acquisition geometry and subsurface layer properties. It is intended for educational purposes and conceptual demonstrations in the field of seismic exploration and geophysics. By providing a simplified representation of seismic data, SeisInsight  allows users to visualize and analyze theoretical scenarios without the complexities of real-world data.
 
 #### Features
 
@@ -23,7 +23,7 @@ SeisInsight  is a software tool designed to generate synthetic 2D seismic sectio
 - Output: Generates seismic section consists of numerous traces with location given along the x-axis and two-way traveltime. 
 Also provides a table containing geophone positions, distances,and the time of arrival of direct waves, reflections, and first refractions.
 
-- Visualization: Provides visualizations of synthetic seismic section based on user inputs.
+- Visualization: Provides visualizations of synthetic seismic section and subsurface cross section based on user inputs.
 
 - Flexibility: Allows users to adjust parameters and visualize the impact on synthetic seismic wave propagation.
 
